@@ -22,7 +22,7 @@ Ini adalah submission saya untuk **DevOps Internship Challenge**, di mana fokus 
 Clone Projek
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/dockersamples/example-voting-app.git
 cd example-voting-app
 ```
 Jalankan di Docker
